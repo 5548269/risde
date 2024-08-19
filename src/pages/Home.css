@@ -1,0 +1,43 @@
+.home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.home-title {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.home-subtitle {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.start-test-btn {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.start-test-btn:hover {
+  background-color: #0056b3;
+}
+
+.personality-types {
+  margin-top: 40px;
+}
+
+.personality-types h2 {
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 20px;
+}
